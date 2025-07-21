@@ -15,7 +15,7 @@ import { config as baseConfig } from "./base.js";
  * */
 export const expoConfig = [
   ...baseConfig,
-  expoFlatConfig,
+  ...expoFlatConfig,
   js.configs.recommended,
   eslintConfigPrettier,
   ...tseslint.configs.recommended,
