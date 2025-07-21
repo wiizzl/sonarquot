@@ -1,5 +1,5 @@
 import js from "@eslint/js";
-import expoFlatConfig from "eslint-config-expo/flat";
+import expoFlatConfig from "eslint-config-expo/flat.js";
 import eslintConfigPrettier from "eslint-config-prettier";
 import pluginReact from "eslint-plugin-react";
 import pluginReactHooks from "eslint-plugin-react-hooks";
