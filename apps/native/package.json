@@ -7,8 +7,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "expo start",
+    "build": "eas build",
     "build:preview": "eas build -p preview -e preview",
-    "build:production": "eas build -e production",
     "build:development": "eas build -e development",
     "lint": "eslint .",
     "check-types": "tsc --noEmit"
