@@ -1,6 +1,7 @@
 {
   "name": "native",
   "private": true,
+  "type": "module",
   "description": "",
   "main": "expo-router/entry",
   "version": "1.0.0",
